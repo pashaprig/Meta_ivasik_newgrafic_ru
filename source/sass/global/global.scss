@@ -73,10 +73,10 @@ button {
 .container {
   box-sizing: border-box;
   margin: 0 auto;
-  padding: 0 50px;
+  padding: 0 110px;
 
   @media (max-width: $tablet-width) {
-    padding: 0 25px;
+    padding: 0 15px;
   }
 }
 
